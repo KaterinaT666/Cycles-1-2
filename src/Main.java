@@ -151,6 +151,7 @@ public class Main {
             for (int i8 = 1820; i8 < 2122; i8 +=79){
                     System.out.println( i8 );
             }
+
             //Задание 2.3
             System.out.println(" Задание 2.3 ");
             int n = 2;
